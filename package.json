@@ -1,0 +1,18 @@
+{
+    "name": "invite-code",
+    "version": "0.0.1",
+    "description": "Pseudorandom unique invite-code creator.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "keywords": [
+        "invite",
+        "code"
+    ],
+    "author": "chianquan",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.10"
+    }
+}
