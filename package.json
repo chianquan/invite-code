@@ -12,6 +12,10 @@
     ],
     "author": "chianquan",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chianquan/invite-code.git"
+    },
     "dependencies": {
         "lodash": "^4.17.10"
     }
