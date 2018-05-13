@@ -1,6 +1,6 @@
 {
     "name": "invite-code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Pseudorandom unique invite-code creator.",
     "main": "index.js",
     "scripts": {
